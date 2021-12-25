@@ -47,7 +47,7 @@ Lambda takes requests and, according on the size, amount, or volume of the data,
 
 As the number of requests increases, so does the number of containers produced. When the number of requests decreases, so does the number of containers.
 
-![alt text](http://url/to/img.png)
+![cloud flow](https://raw.githubusercontent.com/yukesh1996/articles/main/images/cloud-flow.png)
 
 ## AWS Lambda concepts
 
@@ -127,7 +127,7 @@ Go to the API Gateway and create a new API. On integration dropdon choose Lambda
 6. Step 6: 
 Amazon will now build a new API in API Gateway and associate it with your Lambda function. Now you can open that url
 
-![alt text](http://url/to/img.png)
+![Work Flow](https://raw.githubusercontent.com/yukesh1996/articles/main/images/work-flow.png)
 
 ## Conclusion
 Using AWS Lambda, We can build a service without managing servers. We now pay for what We've consumed rather than a set amount each month.
